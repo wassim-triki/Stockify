@@ -3,7 +3,7 @@
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/wassim-triki/stock-management-fullstack
+   git clone https://github.com/wassim-triki/Stockify
    ```
 
 2. Step into project folder
