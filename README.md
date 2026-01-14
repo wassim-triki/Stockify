@@ -9,7 +9,7 @@
 2. Step into project folder
 
    ```bash
-   cd stock-management-fullstack
+   cd Stockify
    ```
 
 3. Copy the `.env.example` to `.env` and update the variables.
